@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111983" started-at="2015-09-21T18:51:17Z" finished-at="2015-09-21T18:53:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111983" started-at="2015-09-21T18:51:17Z" finished-at="2015-09-21T18:53:09Z">
+      <class name="com.blackcircles.test_env.BlackCircleTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11783" started-at="2015-09-21T18:51:17Z" finished-at="2015-09-21T18:51:29Z">
+        </test-method>
+        <test-method status="PASS" signature="testToSearchForGarageInMyLocality()" name="testToSearchForGarageInMyLocality" duration-ms="2258" started-at="2015-09-21T18:51:29Z" finished-at="2015-09-21T18:51:31Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="854" started-at="2015-09-21T18:51:31Z" finished-at="2015-09-21T18:51:32Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="8347" started-at="2015-09-21T18:51:32Z" finished-at="2015-09-21T18:51:40Z">
+        </test-method>
+        <test-method status="PASS" signature="testWIthValidUsernameAndInvalidPassword()" name="testWIthValidUsernameAndInvalidPassword" duration-ms="8922" started-at="2015-09-21T18:51:40Z" finished-at="2015-09-21T18:51:49Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="729" started-at="2015-09-21T18:51:49Z" finished-at="2015-09-21T18:51:50Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11830" started-at="2015-09-21T18:51:50Z" finished-at="2015-09-21T18:52:02Z">
+        </test-method>
+        <test-method status="PASS" signature="testWithInValidUsernameAndInValidPassword()" name="testWithInValidUsernameAndInValidPassword" duration-ms="5276" started-at="2015-09-21T18:52:02Z" finished-at="2015-09-21T18:52:07Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="667" started-at="2015-09-21T18:52:07Z" finished-at="2015-09-21T18:52:08Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9078" started-at="2015-09-21T18:52:08Z" finished-at="2015-09-21T18:52:17Z">
+        </test-method>
+        <test-method status="PASS" signature="testWithInValidUsernameAndValidPassword()" name="testWithInValidUsernameAndValidPassword" duration-ms="4678" started-at="2015-09-21T18:52:17Z" finished-at="2015-09-21T18:52:22Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="669" started-at="2015-09-21T18:52:22Z" finished-at="2015-09-21T18:52:22Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9493" started-at="2015-09-21T18:52:22Z" finished-at="2015-09-21T18:52:32Z">
+        </test-method>
+        <test-method status="PASS" signature="testWithNoUsernameAndNoPassword()" name="testWithNoUsernameAndNoPassword" duration-ms="3328" started-at="2015-09-21T18:52:32Z" finished-at="2015-09-21T18:52:35Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="860" started-at="2015-09-21T18:52:35Z" finished-at="2015-09-21T18:52:36Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="14234" started-at="2015-09-21T18:52:36Z" finished-at="2015-09-21T18:52:50Z">
+        </test-method>
+        <test-method status="PASS" signature="testWithNoUsernameAndValidPassword()" name="testWithNoUsernameAndValidPassword" duration-ms="3225" started-at="2015-09-21T18:52:50Z" finished-at="2015-09-21T18:52:53Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="645" started-at="2015-09-21T18:52:53Z" finished-at="2015-09-21T18:52:54Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7027" started-at="2015-09-21T18:52:54Z" finished-at="2015-09-21T18:53:01Z">
+        </test-method>
+        <test-method status="PASS" signature="testwithValidUsernameAndValidPassword()" name="testwithValidUsernameAndValidPassword" duration-ms="7392" started-at="2015-09-21T18:53:01Z" finished-at="2015-09-21T18:53:08Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="674" started-at="2015-09-21T18:53:08Z" finished-at="2015-09-21T18:53:09Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

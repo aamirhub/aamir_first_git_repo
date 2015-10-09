@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="91403" started-at="2015-09-23T21:18:15Z" finished-at="2015-09-23T21:19:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="91403" started-at="2015-09-23T21:18:15Z" finished-at="2015-09-23T21:19:47Z">
+      <class name="org.live.meganto_app.test_area.MagentoLoginWithExcelDataTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11533" started-at="2015-09-23T21:18:15Z" finished-at="2015-09-23T21:18:27Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest1()" name="loginTest1" duration-ms="2274" started-at="2015-09-23T21:18:27Z" finished-at="2015-09-23T21:18:29Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="733" started-at="2015-09-23T21:18:29Z" finished-at="2015-09-23T21:18:30Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9710" started-at="2015-09-23T21:18:30Z" finished-at="2015-09-23T21:18:40Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest2()" name="loginTest2" duration-ms="2597" started-at="2015-09-23T21:18:40Z" finished-at="2015-09-23T21:18:42Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="442" started-at="2015-09-23T21:18:42Z" finished-at="2015-09-23T21:18:43Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10382" started-at="2015-09-23T21:18:43Z" finished-at="2015-09-23T21:18:53Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest3()" name="loginTest3" duration-ms="3339" started-at="2015-09-23T21:18:53Z" finished-at="2015-09-23T21:18:57Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="396" started-at="2015-09-23T21:18:57Z" finished-at="2015-09-23T21:18:57Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13784" started-at="2015-09-23T21:18:57Z" finished-at="2015-09-23T21:19:11Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest4()" name="loginTest4" duration-ms="2694" started-at="2015-09-23T21:19:11Z" finished-at="2015-09-23T21:19:13Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="492" started-at="2015-09-23T21:19:13Z" finished-at="2015-09-23T21:19:14Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9277" started-at="2015-09-23T21:19:14Z" finished-at="2015-09-23T21:19:23Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest5()" name="loginTest5" duration-ms="969" started-at="2015-09-23T21:19:23Z" finished-at="2015-09-23T21:19:24Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="636" started-at="2015-09-23T21:19:24Z" finished-at="2015-09-23T21:19:25Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10391" started-at="2015-09-23T21:19:25Z" finished-at="2015-09-23T21:19:35Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest6()" name="loginTest6" duration-ms="1017" started-at="2015-09-23T21:19:35Z" finished-at="2015-09-23T21:19:36Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="483" started-at="2015-09-23T21:19:36Z" finished-at="2015-09-23T21:19:37Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="8810" started-at="2015-09-23T21:19:37Z" finished-at="2015-09-23T21:19:45Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest7()" name="loginTest7" duration-ms="987" started-at="2015-09-23T21:19:45Z" finished-at="2015-09-23T21:19:46Z">
+        </test-method>
+        <test-method status="PASS" signature="executePostCondition()" name="executePostCondition" is-config="true" duration-ms="439" started-at="2015-09-23T21:19:46Z" finished-at="2015-09-23T21:19:47Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

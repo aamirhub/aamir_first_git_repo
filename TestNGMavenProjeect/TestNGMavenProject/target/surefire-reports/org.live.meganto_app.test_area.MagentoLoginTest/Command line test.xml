@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="edwin-pc" name="org.live.meganto_app.test_area.MagentoLoginTest" tests="4" failures="0" timestamp="22 Sep 2015 21:36:48 GMT" time="42.099" errors="0">
+  <testcase name="loginTest" time="3.212" classname="org.live.meganto_app.test_area.MagentoLoginTest"/>
+  <testcase name="loginTest" time="3.205" classname="org.live.meganto_app.test_area.MagentoLoginTest"/>
+  <testcase name="loginTest" time="3.273" classname="org.live.meganto_app.test_area.MagentoLoginTest"/>
+  <testcase name="loginTest1" time="0.001" classname="org.live.meganto_app.test_area.MagentoLoginTest">
+    <skipped/>
+  </testcase>
+</testsuite>

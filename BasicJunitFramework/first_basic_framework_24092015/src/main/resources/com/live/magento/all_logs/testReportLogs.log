@@ -1,0 +1,26 @@
+30/09/2015 18:26:17 [TestLogger][  INFO]:- Browser has been maximized
+30/09/2015 18:26:20 [TestLogger][  INFO]:- The web Address has been loaded successfully
+30/09/2015 18:26:20 [TestLogger][  INFO]:- Account has been opened successfully
+30/09/2015 18:26:20 [TestLogger][  INFO]:- Username has been entered successfully
+30/09/2015 18:26:21 [TestLogger][  INFO]:- Password has been entered successfully
+30/09/2015 18:26:22 [TestLogger][  INFO]:- Login button has been clicked successfully
+30/09/2015 18:26:22 [TestLogger][  INFO]:- name has been verified
+30/09/2015 18:26:22 [TestLogger][  INFO]:- Ussername has been verified
+30/09/2015 18:26:23 [TestLogger][  INFO]:- The browser has now quit
+30/09/2015 18:26:23 [TestLogger][  INFO]:- The browser has no value anymore
+30/09/2015 18:26:31 [TestLogger][  INFO]:- Browser has been maximized
+30/09/2015 18:26:33 [TestLogger][  INFO]:- The web Address has been loaded successfully
+30/09/2015 18:26:33 [TestLogger][  INFO]:- The product LG LCD has been populated successfully
+30/09/2015 18:26:34 [TestLogger][  INFO]:- The search button has been clicked successfully
+30/09/2015 18:26:34 [TestLogger][  INFO]:- The condition has been determinedtrue
+30/09/2015 18:26:34 [TestLogger][  INFO]:- The product has been found on the page
+30/09/2015 18:26:34 [TestLogger][  INFO]:- The browser has now quit
+30/09/2015 18:26:34 [TestLogger][  INFO]:- The browser has no value anymore
+30/09/2015 18:26:42 [TestLogger][  INFO]:- Browser has been maximized
+30/09/2015 18:26:44 [TestLogger][  INFO]:- The web Address has been loaded successfully
+30/09/2015 18:26:44 [TestLogger][  INFO]:- The product Samsung Galaxy has been populated successfully
+30/09/2015 18:26:45 [TestLogger][  INFO]:- The search button has been clicked successfully
+30/09/2015 18:26:45 [TestLogger][  INFO]:- The condition has been determinedtrue
+30/09/2015 18:26:45 [TestLogger][  INFO]:- The product has been found on the page
+30/09/2015 18:26:46 [TestLogger][  INFO]:- The browser has now quit
+30/09/2015 18:26:46 [TestLogger][  INFO]:- The browser has no value anymore

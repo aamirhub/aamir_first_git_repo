@@ -1,0 +1,17 @@
+2015-09-26 20:12:52 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Browser has been instantiated and lunched successfully
+2015-09-26 20:12:53 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Web address has been loaded successfully
+2015-09-26 20:12:53 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Error occoured
+2015-09-26 20:12:53 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) This is warning example
+2015-09-26 20:12:53 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) This is fatal Example
+2015-09-26 20:45:22 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Browser has been instantiated and lunched successfully
+2015-09-26 20:45:23 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Web address has been loaded successfully
+2015-09-26 20:45:23 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Error occoured
+2015-09-26 20:45:23 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) This is warning example
+2015-09-26 20:45:23 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) This is fatal Example
+2015-09-26 20:47:54 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Browser has been instantiated and lunched successfully
+2015-09-26 20:47:55 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Web address has been loaded successfully
+2015-09-26 20:48:01 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Error occoured
+2015-09-26 20:48:01 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) This is warning example
+2015-09-26 20:48:01 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) This is fatal Example
+2015-09-29 22:24:51 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Browser has been instantiated and lunched successfully
+2015-09-29 22:24:51 [com.live.test.log4jxmlversion.TestLog4JXmlVersion] (main:) Web address has been loaded successfully

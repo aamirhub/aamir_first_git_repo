@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [org.live.meganto_app.test_area.MagentoLoginTest]">
+  <test name="Command line test(failed)" preserve-order="false">
+    <classes>
+      <class name="org.live.meganto_app.test_area.MagentoLoginTest">
+        <methods>
+          <include name="executePostCondition"/>
+          <include name="stopDatabase"/>
+          <include name="loginTest1"/>
+          <include name="setUp"/>
+          <include name="starteDatabase"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
